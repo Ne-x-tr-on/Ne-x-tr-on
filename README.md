@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Currently working on automation and Software Development
 
 
