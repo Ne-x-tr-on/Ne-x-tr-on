@@ -1,5 +1,5 @@
 
-Currently working on automation and Software Development
+Working on Automation on both Software and Electronics
 
 
 # 💻 Tech Stack:
