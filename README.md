@@ -1,5 +1,6 @@
 
-Working on Automation on both Software and Electronics
+Working on Automation on both Software and Electronics check them here 🔗 Portfolio: https://engnewtonkamau.netlify.app/
+
 
 
 # 💻 Tech Stack:
