@@ -1,7 +1,7 @@
 
 Working on Automation on both Software and Electronics check them here :
-## 🌐 Portfolio
-- 👉 [Visit my website](https://engnewtonkamau.netlify.app/)
+🌐 Portfolio: [engnewtonkamau.netlify.app](https://engnewtonkamau.netlify.app/)
+
 
 
 
