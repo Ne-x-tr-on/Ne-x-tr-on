@@ -9,6 +9,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-IoT-red?style=for-the-badge&logo=raspberry-pi)
 
 
-![ALTIUM](https://img.shields.io/badge/PCB-Design-blue?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium-PCB-red?style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
