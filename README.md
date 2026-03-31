@@ -1,7 +1,5 @@
 
-## Working on Automation on both Software and Electronics check them here :
-
-### [engnewtonkamau](https://engnewtonkamau.netlify.app/)
+## Automation on Software and Electronics check them here : [Portfolio](https://engnewtonkamau.netlify.app/)
 
 
 
