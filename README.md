@@ -9,6 +9,6 @@
 ![SCADA](https://img.shields.io/badge/SCADA-009966?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-![Altium](https://img.shields.io/badge/Altium-FF0000?style=for-the-badge)
+![Altium PCB](https://img.shields.io/badge/Altium_PCB-FF0000?style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
