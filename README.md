@@ -6,6 +6,8 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros)
 ![PLC](https://img.shields.io/badge/PLC-Automation?style=for-the-badge)
 ![SCADA](https://img.shields.io/badge/SCADA-Monitoring?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-IoT-red?style=for-the-badge&logo=raspberry-pi)
+
 
 ![ALTIUM](https://img.shields.io/badge/PCB-Design-blue?style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
