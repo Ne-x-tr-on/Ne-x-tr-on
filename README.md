@@ -1,5 +1,5 @@
 ## Sometimes I break things...On Purpose. 
-## Nome are here <|:: [Portfolio](https://engnewtonkamau.netlify.app/) ::|>
+## None of them are here <|:: [Portfolio](https://engnewtonkamau.netlify.app/) ::|>
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
