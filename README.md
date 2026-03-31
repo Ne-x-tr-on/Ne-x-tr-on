@@ -8,5 +8,5 @@
 ![SCADA](https://img.shields.io/badge/SCADA-Monitoring?style=for-the-badge)
 
 ![ALTIUM](https://img.shields.io/badge/PCB-Design-blue?style=for-the-badge)
-![SOLIDWO[DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
