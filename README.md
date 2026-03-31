@@ -1,17 +1,19 @@
-## ⚙️ Automation in Software, Robotics & Industrial Systems : https://engnewtonkamau.netlify.app/
+## Automation on Software and Electronics check them here : [Portfolio](https://engnewtonkamau.netlify.app/)
 ---
 
-**Languages**
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+---
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+---
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Robotics & Embedded**
+---
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros)
+---
 ![ESP32](https://img.shields.io/badge/ESP32-IoT?style=flat)
-
-**Industrial Automation**
+---
 ![PLC](https://img.shields.io/badge/PLC-Automation?style=flat)
+---
 ![SCADA](https://img.shields.io/badge/SCADA-Monitoring?style=flat)
 
 
