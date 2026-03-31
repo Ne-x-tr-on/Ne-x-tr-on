@@ -1,10 +1,5 @@
-## ⚙️ Automation in Software, Robotics & Industrial Systems
-
-**Portfolio:** https://engnewtonkamau.netlify.app/
-
+## ⚙️ Automation in Software, Robotics & Industrial Systems : https://engnewtonkamau.netlify.app/
 ---
-
-### Tech Stack
 
 **Languages**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -19,15 +14,10 @@
 ![PLC](https://img.shields.io/badge/PLC-Automation?style=flat)
 ![SCADA](https://img.shields.io/badge/SCADA-Monitoring?style=flat)
 
-**Backend & Data**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
 
-**AI & Vision**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
 
-**Cloud**
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=flat&logo=digitalocean&logoColor=white)
 
 ---
