@@ -1,4 +1,4 @@
-## Sometimes I'm lazy… but hey  
+## Sometimes I break things on Purpose. 
 
 ## Since you're here, might as well stalk my [Portfolio](https://engnewtonkamau.netlify.app/)
 
