@@ -8,12 +8,5 @@
 ![SCADA](https://img.shields.io/badge/SCADA-Monitoring?style=for-the-badge)
 
 ![ALTIUM](https://img.shields.io/badge/PCB-Design-blue?style=for-the-badge)
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-CAD-red?style=for-the-badge&logo=solidworks&logoColor=white)
-
-
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
+![SOLIDWO[DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
