@@ -1,6 +1,6 @@
-## I'm lazy that i
+## Sometimes i'm lazy that i
 
-## Since You are Here Stalk my [Portfolio](https://engnewtonkamau.netlify.app/)
+## Okay. Since You are Here Stalk my [Portfolio](https://engnewtonkamau.netlify.app/)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
