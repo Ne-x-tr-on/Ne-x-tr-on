@@ -1,4 +1,5 @@
-## I am live [Here](https://engnewtonkamau.netlify.app/)
+## Where Software Meets Hardware  
+Check my projects: [Portfolio](https://engnewtonkamau.netlify.app/)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
