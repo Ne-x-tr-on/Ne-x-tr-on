@@ -1,6 +1,6 @@
 ## Sometimes I break things...On Purpose. 
 
-## These Stuff involve my [Portfolio](https://engnewtonkamau.netlify.app/)
+## And here they are: [Portfolio](https://engnewtonkamau.netlify.app/)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
