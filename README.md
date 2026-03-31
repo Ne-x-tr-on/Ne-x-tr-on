@@ -1,7 +1,7 @@
 
 ## Working on Automation on both Software and Electronics check them here :
 
-### [engnewtonkamau.netlify.app](https://engnewtonkamau.netlify.app/)
+### [engnewtonkamau](https://engnewtonkamau.netlify.app/)
 
 
 
