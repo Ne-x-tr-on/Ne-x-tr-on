@@ -9,11 +9,13 @@
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge)
 
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
 ![PLC](https://img.shields.io/badge/PLC-4B4B4B?style=for-the-badge)
 ![SCADA](https://img.shields.io/badge/SCADA-1F6F50?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
